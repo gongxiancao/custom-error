@@ -1,0 +1,29 @@
+{
+  "name": "operational-error",
+  "version": "1.0.0",
+  "description": "Modules to define custom error type from error codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gongxiancao/operational-error.git"
+  },
+  "author": "GongXian",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gongxiancao/operational-error/issues"
+  },
+  "homepage": "https://github.com/gongxiancao/operational-error#readme",
+  "devDependencies": {
+    "bluebird": "^3.4.6",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-jshint": "^2.0.1",
+    "gulp-mocha": "^2.2.0",
+    "jshint": "^2.9.2",
+    "jshint-stylish": "^2.2.0",
+    "sinon": "^1.17.5"
+  }
+}
